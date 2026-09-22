@@ -1,6 +1,9 @@
 # Perfil de Cliente Ideal (ICP) e Diretrizes Comerciais
 
-**Status:** 🟡 Rascunho — pontos centrais já alinhados entre os sócios; faltam decisões numéricas/operacionais e o script comercial. Precisa de aprovação final de Nathan + Xande antes de virar padrão oficial para a equipe comercial e para o designer.
+**STATUS:** Em validação
+**CONFIANÇA:** Fonte secundária / Proposta — ver [`10-fontes-e-rastreabilidade.md`](10-fontes-e-rastreabilidade.md)
+
+`[PROPOSTA]` — pontos centrais já alinhados entre os sócios segundo a fonte, mas sem registro de aprovação formal; faltam decisões numéricas/operacionais e o script comercial. Precisa de aprovação final de Nathan + Xande antes de virar padrão oficial para a equipe comercial e para o designer.
 
 ## Quem é o cliente ideal (perfil prioritário)
 

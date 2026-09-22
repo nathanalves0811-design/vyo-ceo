@@ -1,8 +1,11 @@
 # Precificação — VYO Menu
 
-**Status:** 🟡 Rascunho — **decisão crítica**. Nada aqui é preço final. Exige aprovação conjunta de Nathan **e** Xande antes de virar padrão oficial ou ser comunicado a qualquer cliente (ver [`09-governanca.md`](09-governanca.md)).
+**STATUS:** Em validação — **decisão crítica**
+**CONFIANÇA:** Proposta / Inferência de mercado — ver [`10-fontes-e-rastreabilidade.md`](10-fontes-e-rastreabilidade.md)
 
-## Proposta por plano/módulo (rascunho para aprovação)
+Todo valor abaixo é `[PROPOSTA]`, não `[DECISÃO]`. Nada aqui é preço final. Exige aprovação conjunta de Nathan **e** Xande antes de virar padrão oficial ou ser comunicado a qualquer cliente (ver [`09-governanca.md`](09-governanca.md)).
+
+## Proposta por plano/módulo — [PROPOSTA] (rascunho para aprovação)
 
 | Item | Proposta | Racional |
 |---|---|---|

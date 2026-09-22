@@ -1,6 +1,9 @@
 # Estratégia Comercial
 
-**Status:** 🟡 Rascunho — **decisão crítica**. Consolidado em conversa entre Nathan e IA em 10/09/2026 e testado numa simulação real de venda (Nathan no papel de cliente cético). Depende de validação do Xande antes de virar padrão oficial. Documento completo (preço, vendas, entrega, posicionamento e simulação testada): ver Google Docs vinculado na tarefa original — este arquivo é o resumo estratégico.
+**STATUS:** Em validação — **decisão crítica**
+**CONFIANÇA:** Proposta — ver [`10-fontes-e-rastreabilidade.md`](10-fontes-e-rastreabilidade.md)
+
+`[PROPOSTA]` — consolidado em conversa entre Nathan e IA em 10/09/2026 e testado numa simulação real de venda (Nathan no papel de cliente cético). A própria fonte registra que depende de validação do Xande antes de virar padrão oficial — não há `[DECISÃO]` aqui, nem parcial. Documento completo (preço, vendas, entrega, posicionamento e simulação testada): Google Docs vinculado à tarefa original, não lido diretamente nesta sessão além do resumo — este arquivo reproduz esse resumo.
 
 ## Formas de venda
 
