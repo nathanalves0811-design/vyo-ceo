@@ -28,7 +28,13 @@ Este repositório documenta a camada estratégica e de negócio da VYO (marca, p
 
 **Claude não declara unilateralmente que uma etapa estratégica está "100% concluída".** Claude entrega → GPT audita → GPT aprova ou devolve correções. Decisões reservadas aos humanos continuam reservadas aos humanos — nenhuma IA aprova, em nome de Nathan ou Xande, conteúdo marcado como decisão crítica.
 
-Fluxo completo, estados e Definition of Done: ver [`docs/11-protocolo-multiagente.md`](docs/11-protocolo-multiagente.md).
+Fluxo completo, estados e Definition of Done: ver [`docs/11-protocolo-multiagente.md`](docs/11-protocolo-multiagente.md). Esse documento é o **protocolo institucional** — não é duplicado aqui.
+
+## Camada operacional (missões)
+
+Trabalho concreto (uma missão pedida por Nathan, do tipo "estruture o CRM" ou "monte o calendário editorial") não acontece em `docs/` — acontece em [`operations/`](operations/), sob o manual operacional [`operations/README.md`](operations/README.md), que aplica o protocolo institucional acima a missões individuais: ciclo `MISSION READY → EXECUTING → REVIEW_GPT → APPROVED/REVISION`, limite de `MAX_AUTONOMOUS_CYCLES`, níveis de autonomia (A1/A2/A3) e a regra de promoção de conhecimento para `docs/`.
+
+`docs/` continua sendo a base de conhecimento consolidada da empresa; `operations/` é onde esse conhecimento é produzido, revisado e (quando o GPT decidir) promovido para lá.
 
 ## Estrutura
 
